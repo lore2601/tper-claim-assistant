@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "bot_reclami_tper"
+name = "tper_claim_assistant"
 version = "v0.0.1"
 description = "Python package for..."
 authors = [""]
 readme = "README.md"
-packages = [{ include = "bot_reclami_tper", from = "src" }]
+packages = [{ include = "tper_claim_assistant", from = "src" }]
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.13"   

@@ -2,7 +2,7 @@
 
 set -e
 
-SRCS="src/bot_reclami_tper"
+SRCS="src/tper_claim_assistant"
 TEST_SRCS="tests"
 
 [ -d "$SRCS" ] || (echo "Run this script from project root"; exit 1)
